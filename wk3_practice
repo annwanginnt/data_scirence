@@ -1,0 +1,10 @@
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plot
+import seaborn as sns
+
+list1=[1,89,87,65,34,98,87,65]
+
+def mean(x)
+    return sum(x)/len(x)
+mean(list1)
